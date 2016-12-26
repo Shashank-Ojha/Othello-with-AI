@@ -1,2 +1,2 @@
 # Othello-with-AI
-Uses Alpha–beta pruning to read 6 plies ahead of the user
+Uses Alpha–beta pruning to optimize the minimax algorithm and search the tree up to a depth of 6 ply.
